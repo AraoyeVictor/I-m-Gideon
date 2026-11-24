@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="580" viewBox="0 0 900 580" fill="none">
+  <rect width="900" height="580" rx="18" fill="#F3EBDD"/><rect x="44" y="34" width="812" height="512" rx="12" fill="#FFFDF8"/>
+  <rect x="44" y="34" width="812" height="42" rx="12" fill="#F9F6EE"/><circle cx="65" cy="55" r="5" fill="#DD9279"/><circle cx="83" cy="55" r="5" fill="#E7C879"/><circle cx="101" cy="55" r="5" fill="#8BB98E"/>
+  <text x="88" y="111" fill="#252C25" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">NORTHSTAR</text><text x="619" y="110" fill="#6B7165" font-family="Arial,sans-serif" font-size="12">SHOP   ABOUT   JOURNAL</text>
+  <text x="88" y="206" fill="#293227" font-family="Georgia,serif" font-size="43">Made for slow</text><text x="88" y="256" fill="#293227" font-family="Georgia,serif" font-size="43">mornings.</text><text x="88" y="292" fill="#75766D" font-family="Arial,sans-serif" font-size="13">Thoughtful objects for everyday rituals.</text>
+  <rect x="88" y="322" width="135" height="42" rx="21" fill="#48664B"/><text x="112" y="348" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">EXPLORE GOODS</text>
+  <rect x="493" y="139" width="296" height="327" rx="148" fill="#E9D7BB"/><path d="M566 321h153l-16 112H582l-16-112Z" fill="#B56F4F"/><path d="M583 321v-47c0-43 21-68 58-68s58 25 58 68v47" stroke="#85533D" stroke-width="14"/><ellipse cx="643" cy="321" rx="77" ry="15" fill="#CB8963"/><circle cx="754" cy="177" r="32" fill="#E7B75D"/><path d="M506 431c21-31 50-42 78-36" stroke="#fff" stroke-opacity=".65" stroke-width="3"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="580" viewBox="0 0 900 580" fill="none">
+  <rect width="900" height="580" rx="18" fill="#E9ECE4"/><rect x="40" y="32" width="820" height="516" rx="12" fill="#FBFCF8"/><rect x="40" y="32" width="820" height="45" rx="12" fill="#fff"/>
+  <text x="82" y="107" fill="#31433B" font-family="Georgia,serif" font-size="21" font-weight="700">wellnest</text><text x="580" y="104" fill="#79857D" font-family="Arial,sans-serif" font-size="11">OUR SPACE   CLASSES   CONTACT</text>
+  <text x="83" y="184" fill="#708A73" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">A PLACE TO PAUSE</text><text x="82" y="235" fill="#35443A" font-family="Georgia,serif" font-size="38">Come back to</text><text x="82" y="280" fill="#35443A" font-family="Georgia,serif" font-size="38">yourself.</text><text x="84" y="315" fill="#7B867C" font-family="Arial,sans-serif" font-size="12">Movement, mindfulness, and space to breathe.</text>
+  <rect x="83" y="343" width="138" height="43" rx="21" fill="#597B61"/><text x="108" y="369" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700">EXPLORE CLASSES</text>
+  <rect x="492" y="126" width="320" height="363" rx="150" fill="#D9E4D3"/><circle cx="655" cy="261" r="93" fill="#C5D4BC"/><path d="M638 394c-23-76-18-143 22-203 34-51 76-61 104-53-4 49-41 103-101 127" stroke="#66846A" stroke-width="13" stroke-linecap="round"/><path d="M643 400c-36-55-85-73-138-59 13 40 58 69 137 70m31-115c-24-49-20-94 9-132 31 25 39 68 21 129" fill="#87A88B"/><path d="M535 445h236" stroke="#A3B29E" stroke-width="2"/>
+  <circle cx="742" cy="164" r="20" fill="#fff" fill-opacity=".8"/><circle cx="510" cy="418" r="11" fill="#fff" fill-opacity=".9"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="580" viewBox="0 0 900 580" fill="none">
+  <rect width="900" height="580" rx="18" fill="#DCEAF3"/><rect x="40" y="32" width="820" height="516" rx="12" fill="#FAFCF9"/><rect x="40" y="32" width="820" height="44" rx="12" fill="#fff"/>
+  <text x="77" y="104" fill="#19384C" font-family="Georgia,serif" font-size="21" font-weight="700">open road</text><text x="582" y="102" fill="#576D7B" font-family="Arial,sans-serif" font-size="11">DESTINATIONS   OUR STORY   JOURNAL</text>
+  <rect x="60" y="126" width="780" height="397" rx="7" fill="#B7D9E5"/><circle cx="704" cy="212" r="52" fill="#F2C774"/>
+  <path d="m60 368 148-139 91 89 139-153 182 190 96-83 124 120v131H60V368Z" fill="#8BAE9C"/><path d="m60 415 185-100 117 79 150-104 142 106 88-42 98 50v119H60V415Z" fill="#557C73"/>
+  <path d="M329 523c45-87 94-135 163-171 54-28 85-54 127-102" stroke="#F6E7C5" stroke-width="20"/><path d="M329 523c45-87 94-135 163-171 54-28 85-54 127-102" stroke="#D8C79E" stroke-width="2" stroke-dasharray="8 12"/>
+  <rect x="82" y="166" width="266" height="189" rx="6" fill="#fff" fill-opacity=".94"/><text x="105" y="210" fill="#6D9298" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">TAKE THE SCENIC ROUTE</text><text x="105" y="252" fill="#1B3949" font-family="Georgia,serif" font-size="31">Find your</text><text x="105" y="286" fill="#1B3949" font-family="Georgia,serif" font-size="31">own way.</text><text x="105" y="319" fill="#6D7E81" font-family="Arial,sans-serif" font-size="10">Small-group trips, big-world feeling.</text>
+</svg>
